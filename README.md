@@ -1,2 +1,22 @@
-# project_17140_coinbase
-Company Analysis - Coinbase
+<a href="#"><img src="./assets/coinbase_01.gif"></a>
+<a href="#"><img src="./assets/coinbase_02.gif"></a>
+<a href="#"><img src="./assets/coinbase_03.gif"></a>
+<a href="#"><img src="./assets/coinbase_04.gif"></a>
+<a href="#"><img src="./assets/coinbase_05.gif"></a>
+<a href="#"><img src="./assets/coinbase_06.gif"></a>
+<a href="#"><img src="./assets/coinbase_07.gif"></a>
+<a href="#"><img src="./assets/coinbase_08.gif"></a>
+<a href="#"><img src="./assets/coinbase_09.gif"></a>
+<a href="#"><img src="./assets/coinbase_10_1.gif"></a>
+<a href="#"><img src="./assets/coinbase_10_2.gif"></a>
+<a href="#"><img src="./assets/coinbase_10_3.gif"></a>
+<a href="#"><img src="./assets/coinbase_10_4.gif"></a>
+<a href="#"><img src="./assets/coinbase_10_5.gif"></a>
+<a href="#"><img src="./assets/coinbase_11_1.gif"></a>
+<a href="#"><img src="./assets/coinbase_11_2.gif"></a>
+<a href="#"><img src="./assets/coinbase_11_3.gif"></a>
+<a href="#"><img src="./assets/coinbase_11_4.gif"></a>
+<a href="#"><img src="./assets/coinbase_12.gif"></a>
+<a href="#"><img src="./assets/coinbase_13.gif"></a>
+<a href="#"><img src="./assets/coinbase_14.gif"></a>
+<a href="#"><img src="./assets/coinbase_15.gif"></a>
