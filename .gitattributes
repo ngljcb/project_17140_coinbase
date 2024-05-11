@@ -1,3 +1,4 @@
 # gitattributes
 *.ppt linguist-language=Powerpoint
 *.pdf linguist-language=pdf
+*.pdf linguist-detectable=true
