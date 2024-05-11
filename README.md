@@ -14,6 +14,9 @@ This repository contains a comprehensive analysis of Coinbase's strategy utilizi
 ### Usage
 Feel free to explore each analysis section to gain a comprehensive understanding of Coinbase's strategic position. These insights can be valuable for investors, industry analysts, or anyone interested in understanding the dynamics of the cryptocurrency market and Coinbase's role within it.
 
+### Download Documentation
+You can download the complete documentation <a href="documentation.pdf">here</a>, including detailed reports of each analysis section.
+
 ### Disclaimer
 This analysis is based on publicly available information and does not constitute financial advice or a recommendation to invest in Coinbase or any other cryptocurrency-related assets. Investors should conduct their own research and consult with financial professionals before making investment decisions.
 
