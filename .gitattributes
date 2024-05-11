@@ -1,4 +1,0 @@
-# gitattributes
-*.pdf linguist-language=pdf
-*.pdf linguist-detectable=true
-*.pdf linguist-documentation=false
