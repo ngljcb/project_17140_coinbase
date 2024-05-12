@@ -1,6 +1,6 @@
 # Coinbase Strategy Analysis
 ### Overview
-This repository contains a comprehensive analysis of Coinbase's strategy utilizing various strategic analysis frameworks such as SWOT, PESTEL, and concurrence analysis. The aim of this project is to provide insights into Coinbase's positioning within the cryptocurrency market, examining both internal and external factors influencing its strategy.
+This project contains a comprehensive analysis of Coinbase's strategy utilizing various strategic analysis frameworks such as SWOT, PESTEL, and concurrence analysis. The aim is to provide insights into Coinbase's positioning within the cryptocurrency market, examining both internal and external factors influencing its strategy.
 
 ### Contents
 1. <b>SWOT Analysis:</b> A detailed examination of Coinbase's strengths, weaknesses, opportunities, and threats, offering an internal perspective on its strategic landscape.
@@ -14,8 +14,8 @@ This repository contains a comprehensive analysis of Coinbase's strategy utilizi
 ### Usage
 Feel free to explore each analysis section to gain a comprehensive understanding of Coinbase's strategic position. These insights can be valuable for investors, industry analysts, or anyone interested in understanding the dynamics of the cryptocurrency market and Coinbase's role within it.
 
-### Download Documentation
-You can download the complete documentation <a href="documentation.pdf">here</a>, including detailed reports of each analysis section.
+### Documentation & Repository
+You can download the complete documentation <a href="documentation.pdf">here</a>, including detailed reports of each analysis section. The repository is available <a href="https://github.com/ngljcb/project_17140_coinbase">here</a> for browsing the source code and additional project resources.
 
 ### Disclaimer
 This analysis is based on publicly available information and does not constitute financial advice or a recommendation to invest in Coinbase or any other cryptocurrency-related assets. Investors should conduct their own research and consult with financial professionals before making investment decisions.
