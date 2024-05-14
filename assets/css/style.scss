@@ -1,0 +1,82 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+html, page, window {
+  background-color: #222 !important;
+  background-image: none !important;
+}
+
+* {
+  border-color: #565656 !important;
+  background-color: #222 !important;
+}
+
+button,
+select,
+textarea,
+[contenteditable="true"],
+:root, html, page, window, *,
+input:not([type="checkbox"]):not([type="radio"]):not([type="range"]) {
+  color: #ccc !important;
+}
+
+a *,
+input *,
+button *,
+select *,
+optgroup *,
+textarea * {
+  background-color: transparent !important;
+}
+
+.a, cite, cite a:link, cite a:visited, .cite, .cite:link {
+  color: #339653 !important;
+}
+
+*:link, *:link * {
+  color: #c2bcff !important;
+}
+
+*:visited, *:visited * {
+  color: rgb(211, 138, 138) !important
+}
+
+input[type="range"] {
+  -moz-appearance: none !important;;
+}
+
+button,
+select,
+textarea,
+[contenteditable="true"],
+input:not([type="checkbox"]):not([type="radio"]):not([type="range"]) {
+  opacity: 1 !important;
+  border-width: 1px !important;
+  border-style: solid !important;
+  border-color: #525252 !important;
+  -moz-appearance: none !important;
+  background-color: #222 !important;
+  transition-duration: 0.3s !important;
+  transition-property: border-color, box-shadow !important;
+}
+
+textarea,
+[contenteditable="true"],
+input:not([type="checkbox"]):not([type="radio"]):not([type="range"]):not([type="button"]):not([type="color"]):not([type="image"]):not([type="reset"]):not([type="submit"]) {
+  background-image: none !important;
+}
+
+select:focus,
+button:focus,
+textarea:focus,
+input[type="color"]:focus,
+input[type="image"]:focus,
+input[type="reset"]:focus,
+input[type="button"]:focus,
+input[type="submit"]:focus,
+[contenteditable="true"]:focus,
+input:focus:not([type="checkbox"]):not([type="radio"]):not([type="range"]):not([type="button"]):not([type="color"]):not([type="image"]):not([type="reset"]):not([type="submit"]) {
+  border-color: #749dbd !important;
+}
