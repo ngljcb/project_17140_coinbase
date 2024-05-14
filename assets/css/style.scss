@@ -19,7 +19,7 @@ textarea,
 [contenteditable="true"],
 :root, html, page, window, *,
 input:not([type="checkbox"]):not([type="radio"]):not([type="range"]) {
-  color: #ccc !important;
+  color: #ffffff !important;
 }
 
 a *,
@@ -55,9 +55,9 @@ input:not([type="checkbox"]):not([type="radio"]):not([type="range"]) {
   opacity: 1 !important;
   border-width: 1px !important;
   border-style: solid !important;
-  border-color: #525252 !important;
+  border-color: #0d1117 !important;
   -moz-appearance: none !important;
-  background-color: #222 !important;
+  background-color: #0d1117 !important;
   transition-duration: 0.3s !important;
   transition-property: border-color, box-shadow !important;
 }
