@@ -4,13 +4,13 @@
 @import "{{ site.theme }}";
 
 html, page, window {
-  background-color: #222 !important;
+  background-color: #0d1117 !important;
   background-image: none !important;
 }
 
 * {
-  border-color: #565656 !important;
-  background-color: #222 !important;
+  border-color: #0d1117 !important;
+  background-color: #0d1117 !important;
 }
 
 button,
@@ -32,15 +32,15 @@ textarea * {
 }
 
 .a, cite, cite a:link, cite a:visited, .cite, .cite:link {
-  color: #339653 !important;
+  color: #1f6feb !important;
 }
 
 *:link, *:link * {
-  color: #c2bcff !important;
+  color: #1f6feb !important;
 }
 
 *:visited, *:visited * {
-  color: rgb(211, 138, 138) !important
+  color: #1f6feb !important
 }
 
 input[type="range"] {
