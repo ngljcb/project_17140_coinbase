@@ -21,8 +21,7 @@ You can download the complete documentation <a href="documentation.pdf">here</a>
 This analysis is based on publicly available information and does not constitute financial advice or a recommendation to invest in Coinbase or any other cryptocurrency-related assets. Investors should conduct their own research and consult with financial professionals before making investment decisions.
 
 ## Presentation
-
-<a href="#"><img src="./assets/coinbase_01.gif"></a>
+<img src="./assets/coinbase_01.gif">
 <a href="#"><img src="./assets/coinbase_02.gif"></a>
 <a href="#"><img src="./assets/coinbase_03.gif"></a>
 <a href="#"><img src="./assets/coinbase_04.gif"></a>
