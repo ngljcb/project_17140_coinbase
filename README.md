@@ -1,4 +1,4 @@
-# Coinbase Global Inc. Strategy Analysis
+# Coinbase Strategy Analysis
 ### Overview
 This project contains a comprehensive analysis of Coinbase's strategy utilizing various strategic analysis frameworks such as SWOT, PESTEL, and concurrence analysis. The aim is to provide insights into Coinbase's positioning within the cryptocurrency market, examining both internal and external factors influencing its strategy.
 
